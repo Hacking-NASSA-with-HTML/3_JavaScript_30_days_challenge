@@ -2,7 +2,7 @@
 :root {
     --base: #ffe27a;
     --spacing: 15px;
-    --blur: 15px;
+    --blur: 2px;
 }
 
 body {
